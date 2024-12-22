@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pz8JLa1aJEp64gBFuYh/S7ZCCiK7w1KqXTlYap8RuSQ=",
+  "Source": "CoreApi8JwtToken",
+  "BasePath": "_content/CoreApi8JwtToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

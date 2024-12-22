@@ -1,0 +1,6 @@
+@CoreApi8JwtToken_HostAddress = http://localhost:5188
+
+GET {{CoreApi8JwtToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
